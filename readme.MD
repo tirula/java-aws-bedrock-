@@ -1,4 +1,3 @@
 # java + aws bedrock
 
-https://docs.spring.io/spring-ai/reference/
-
+https://medium.com/@tirula/java-aws-bedrock-3c0d7bcb1f25
